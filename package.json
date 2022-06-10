@@ -1,0 +1,22 @@
+{
+  "name": "scratchfornode",
+  "version": "0.0.1",
+  "description": "A scratchattach clone for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniqueName12345/ScratchForNode.git"
+  },
+  "keywords": [
+    "scratch"
+  ],
+  "author": "UniqueName12345",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/UniqueName12345/ScratchForNode/issues"
+  },
+  "homepage": "https://github.com/UniqueName12345/ScratchForNode#readme"
+}
